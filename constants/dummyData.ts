@@ -25,7 +25,7 @@ export const todos: todoProps[] = [
     {
         compeleted: false,
         todo: "Get lunch",
-        category: "Work",
+        category: "Workk",
         time: "9:00AM"
     },
     {
